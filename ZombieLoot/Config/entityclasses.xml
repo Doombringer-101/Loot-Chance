@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<configs>
+
+<set xpath="/entity_classes/entity_class/property[@name='LootDropProb' and (@value='0.02')]/@value">.5</set>
+
+<set xpath="/entity_classes/entity_class/property[@name='LootDropProb' and (@value='.03')]/@value">.75</set>
+
+</configs>
